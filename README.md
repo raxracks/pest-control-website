@@ -6,3 +6,4 @@ Ideas:
 - Pest image search
 - Product links
 - Affiliate links
+- Login method
